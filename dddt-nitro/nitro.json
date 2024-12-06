@@ -1,0 +1,22 @@
+{
+  "cxxNamespace": [
+    "dddt"
+  ],
+  "ios": {
+    "iosModuleName": "DDDT"
+  },
+  "android": {
+    "androidNamespace": [
+      "dddt"
+    ],
+    "androidCxxLibName": "DDDT"
+  },
+  "autolinking": {
+    "DATA": {
+      "cpp": "HybridDATA"
+    }
+  },
+  "ignorePaths": [
+    "node_modules"
+  ]
+}
